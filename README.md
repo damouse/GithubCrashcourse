@@ -59,7 +59,7 @@ git pull origin master
 
 Learn to spell.
 
-your working changes
+`repository`- where code lives 
 
 ## Example Flow
 
