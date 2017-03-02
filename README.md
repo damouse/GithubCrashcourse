@@ -1,5 +1,7 @@
 ## Commands for Terminal
 
+Hey, I think this needs better punctuation.
+
 cd-         change directory
 mkdir-      make directory
 ls-         list directory 
