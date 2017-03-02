@@ -16,7 +16,6 @@ Example:
 git init .
 ```
 
-
 `add`- add a file to git tracking
 
 ```
