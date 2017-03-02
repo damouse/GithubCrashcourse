@@ -55,11 +55,21 @@ git pull
 git pull origin master
 ```
 
+`branch`- seperate out your history
+
+```
+git branch dev      # make a new branch
+git checkout dev    # checkout the branch "dev"
+git branch          # list 
+```
 ## Git Terms
 
 Learn to spell.
 
 `repository`- where code lives 
+`commit`- "snapshot" of a directory
+`push`- update the origin (publically hosted, official version on github) with your working changes
+`branch`- a seperate "history" tree
 
 ## Example Flow
 
