@@ -57,6 +57,8 @@ git pull origin master
 
 ## Git Terms
 
+Learn to spell.
+
 `repository`- where code lives 
 
 
