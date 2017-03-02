@@ -55,11 +55,28 @@ git pull
 git pull origin master
 ```
 
+`branch`- seperate out your history
+
+```
+git branch dev      # make a new branch
+git checkout dev    # checkout the branch "dev"
+git branch          # lists all branch 
+```
+
+`merge`- merge in a branch with another, or a remote with the current branch. The branch merged **into** is the current
+```
+git checkout master # go to the master branch
+git merge dev       # Merge dev into the master
+```
+
 ## Git Terms
 
 Learn to spell.
 
 `repository`- where code lives 
+`commit`- "snapshot" of a directory
+`push`- update the origin (publically hosted, official version on github) with your working changes
+`branch`- a seperate "history" tree
 
 ## Example Flow
 
