@@ -1,7 +1,5 @@
 ## Commands for Terminal
 
-Hey, I think this needs better punctuation.
-
 cd-         change directory
 mkdir-      make directory
 ls-         list directory 
@@ -70,8 +68,6 @@ git merge dev       # Merge dev into the master
 ```
 
 ## Git Terms
-
-Learn to spell.
 
 `repository`- where code lives 
 `commit`- "snapshot" of a directory
