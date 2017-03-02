@@ -1,5 +1,7 @@
 ## Commands for Terminal
 
+Hey, I think this needs better punctuation.
+
 cd-         change directory
 mkdir-      make directory
 ls-         list directory 
@@ -60,3 +62,20 @@ Learn to spell.
 `repository`- where code lives 
 `commit`- "snapshot" of a directory
 `push`- update the origin (publically hosted, official version on github) with your working changes
+
+## Example Flow
+
+User A makes a change: 
+
+```
+git add --all
+git commit -m "Your message"
+git push
+```
+
+User B wants to see the changes: 
+
+```
+git pull
+```
+
