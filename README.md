@@ -44,6 +44,14 @@ git push origin master
 
 `clone`- make a local copy of a remote repository
 
+`pull`- go to origin (github) and fetch 
+
+```
+git pull
+
+# or, specify remote and branch
+git pull origin master
+```
 
 ## Git Terms
 
