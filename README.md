@@ -9,9 +9,8 @@ ls-         list directory
 
 ## Git Commands
 
-`init`- creates a new 
+`init`- creates a new repository
 
-Example:
 ```
 git init .
 ```
@@ -29,7 +28,25 @@ git add --all
 git commit -m 'this is my commit message'
 ```
 
+`status`- show the current state of the repo
+
+`push`- send the local repository (on your computer) to a remote repository (usually github). Make sure to add a remote, first!
+
+Adding a remote: 
+```
+git remote add origin git@github.com:damouse/WhateverYouWant.git
+```
+
+Pushing:
+```
+git push origin master
+```
+
+`clone`- make a local copy of a remote repository
+
+
 ## Git Terms
 
 `repository`- where code lives 
 `commit`- "snapshot" of a directory
+`push`- update the origin (publically hosted, official version on github) with your working changes
