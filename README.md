@@ -58,3 +58,20 @@ git pull origin master
 `repository`- where code lives 
 `commit`- "snapshot" of a directory
 `push`- update the origin (publically hosted, official version on github) with your working changes
+
+## Example Flow
+
+User A makes a change: 
+
+```
+git add --all
+git commit -m "Your message"
+git push
+```
+
+User B wants to see the changes: 
+
+```
+git pull
+```
+
