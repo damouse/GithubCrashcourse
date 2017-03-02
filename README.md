@@ -58,8 +58,7 @@ git pull origin master
 ## Git Terms
 
 `repository`- where code lives 
-`commit`- "snapshot" of a directory
-`push`- update the origin (publically hosted, official version on github) with your working changes
+
 
 ## Example Flow
 
