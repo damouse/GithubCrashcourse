@@ -59,9 +59,7 @@ git pull origin master
 
 Learn to spell.
 
-`repository`- where code lives 
-`commit`- "snapshot" of a directory
-`push`- update the origin (publically hosted, official version on github) with your working changes
+your working changes
 
 ## Example Flow
 
